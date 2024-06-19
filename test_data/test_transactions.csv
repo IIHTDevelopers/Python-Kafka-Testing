@@ -1,0 +1,4 @@
+account_from,account_to,amount,location,balance,transaction_time,account_age,transaction_frequency
+111,222,150.0,NY,500.0,2024-06-14T12:00:00,2,15
+333,444,200000.0,FL,-10.0,2024-06-14T12:05:00,0,100
+555,666,50.0,TX,300.0,2024-06-14T12:10:00,3,5
